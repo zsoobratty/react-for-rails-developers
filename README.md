@@ -6,10 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
+ruby 2.6.3p62
 
 * Database creation
 in terminal - 
